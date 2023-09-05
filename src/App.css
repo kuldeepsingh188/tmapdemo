@@ -12,6 +12,16 @@
   font-family: 'poppins';
 }
 
+.fs_xsm{
+  font-size: 16px;
+}
+.fs_sm{
+  font-size: 20px;
+}
+.fs_md{
+  font-size: 28px;
+}
+
 .teamCard {
   border-radius: 15px;
   border: 1px solid rgba(250, 202, 16, 0.40);
